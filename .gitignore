@@ -70,3 +70,7 @@ book/_build/
 skills-lock.json
 .kilocode/
 .kilo/
+
+jupyter_notebooks/
+
+notes/

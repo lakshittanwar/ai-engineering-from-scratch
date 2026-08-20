@@ -38,5 +38,7 @@ Currently a College undergrad, I want to build career in Data Science and AI/ML.
 ## Progress log
 | Date | Lesson | Quiz | Note |
 |------|--------|------|------|
+| 2026-08-20 | 02/01 | 3/3 | Perfect score! Great intuition on when nearest centroid fails. |
+| 2026-08-20 | 02/02 | 3/3 | Aced gradient descent and linear regression fundamentals. |
 
 ## Review queue
