@@ -74,13 +74,7 @@ site/build-meta.js
 site/certification-data.js
 book/_build/
 
-skills-lock.json
-.kilocode/
-.kilo/
-
 jupyter_notebooks/
-
-notes/
 
 # Lesson translations are generated to a separate `translations` branch, never
 # main. The per-language README, however, is hand-authored and committed to main
